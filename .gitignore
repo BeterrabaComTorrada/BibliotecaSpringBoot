@@ -1,0 +1,14 @@
+# Arquivos do Maven
+target/
+
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do IntelliJ
+.idea/
+*.iml
+
+# Arquivos de log
+*.log
